@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: add6b1115ba14164e8f3578a0fd1672f
+  m_SerializeEntries:
+  - m_GUID: a78f2d844c9d1a9428ef1a6c6b5d3ab2
+    m_Address: Assets/Res/UI/EventSystemPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c79a96f984b872e4e85c6837ec0edcb5
+    m_Address: Assets/Res/UI/ViewPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12134cd3872715a4da0c35b2d66778a0
+    m_Address: Assets/Res/UI/UI/Loading/LoadingView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b060f59787c79454db5166fa59f170ba
+    m_Address: Assets/Res/UI/UI/Login/LoginView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d2e622fce2c6db4ebf8be13dcb6e864
+    m_Address: Assets/Res/UI/CanvasPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bddda711d9d485489e2060cbc32f97a
+    m_Address: Assets/Res/UI/UI/Task/TaskView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf6d211f47dd83a4582b94522cbfc90d
+    m_Address: Assets/Res/UI/UI/ErrorInfo/ErrorInfoView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d560be4e85d2e864fba1ec6488141ebe
+    m_Address: Assets/Res/UI/UI/RuntimeMonitor/RuntimeMonitorView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 239b0cca7fe27054d8c168e5397a23d3
+    m_Address: Assets/Res/UI/UI/RemoteControl/RemoteControlView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2084f31cf5b22b44bbf4143c79276322
+    m_Address: Assets/Res/UI/UI/Settings/SettingsView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18b048658b124284c8f14cba9ebcefbe
+    m_Address: Assets/Res/UI/UI/Settings/AccountRecord.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 215be04f4fb804941977a2985e1dada3
+    m_Address: Assets/Res/UI/UI/Settings/ManagerOn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f056e8a16f83a4418266fbfbbc68e24
+    m_Address: Assets/Res/UI/UI/Settings/OperationOn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 907d12fb3ecb74f4d88ebd0e8bd7ec97
+    m_Address: Assets/Res/UI/UI/Settings/AccountOff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b9dd9b9082fe9a439b91284af99d24d
+    m_Address: Assets/Res/UI/UI/Settings/OperationOff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 446288cb55f8ae441ab21f9ac4121262
+    m_Address: Assets/Res/UI/UI/Settings/ManagerOff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1784b5eb015a9954f91989f6a86f04cd
+    m_Address: Assets/Res/UI/UI/Settings/AccountOn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca8e779db52e91148a31d94780225af7
+    m_Address: Assets/Res/UI/UI/Settings/InfoFieldPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aab3211328c4eff4098e794377cf2b28
+    m_Address: Assets/Res/UI/UI/Settings/OperationRecord.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a711689d9d802642aa8aa055d59d5d7
+    m_Address: Assets/Res/UI/UI/Settings/AccountOperationRecord.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2343ec0374c99d4f817424967440a7d
+    m_Address: Assets/Res/UI/UI/TopPnl/TopPnlView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8064ba21c503e24f928e0fb220568a3
+    m_Address: Assets/Res/UI/UI/BottomPnlLeft/BottomPnlLeftView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70acea05ec2395149984cc06dcb5aee2
+    m_Address: Assets/Res/UI/UI/BottomPnlRight/BottomPnlRightView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26aaa1a1c6a3cd54691ee8c293187b09
+    m_Address: Assets/Res/UI/UI/Monitor/MonitorView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e26aed95a5b5e954190f7a5d2a847b4c
+    m_Address: Assets/Res/UI/UI/HistoryWarning/HistoryWarningView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20e7e660a65c8944dbddc0dce8ff91f5
+    m_Address: Assets/Res/UI/UI/HistoryRecord/HistoryRecordView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d402e35aae37f442afec7bd3ef290e1
+    m_Address: Assets/Res/Config/connection_config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bff154de77c89d4f99438e7f42549c2
+    m_Address: Assets/Res/Config/connection_config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a37d888143d268d4bb997e575329891b
+    m_Address: Assets/Res/Audio/buzzer_cut.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70b31a50713ef384290c3e1ed909ec88
+    m_Address: Assets/Images/M_Area.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ec05ce569d5d6da41a877fb7616a1ea4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7d98c9bf100b48e4083c2825658fbdf6, type: 2}
+    - {fileID: 11400000, guid: 526cef436413def478767605943ca8c5, type: 2}
